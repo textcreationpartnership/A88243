@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The recantation of Lieutenant Collonel John Lilburne, prisoner in the Tower. Opening, all the machinations of the Independent partie: their various practises and judgements. With the reasons or grounds of his unexpected revolt from that party: also certain rules to know them, with cautions to shun most of their pernicious heresies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88243</idno>
+            <idno type="STC">Wing L2171</idno>
+            <idno type="STC">Thomason E386_19</idno>
+            <idno type="STC">ESTC R201489</idno>
+            <idno type="EEBO-CITATION">99861993</idno>
+            <idno type="PROQUEST">99861993</idno>
+            <idno type="VID">160228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160228)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E386[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The recantation of Lieutenant Collonel John Lilburne, prisoner in the Tower. Opening, all the machinations of the Independent partie: their various practises and judgements. With the reasons or grounds of his unexpected revolt from that party: also certain rules to know them, with cautions to shun most of their pernicious heresies.</title>
+                  <author>Lilburne, John, 1614?-1657,</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to John Lilburne; Gregg lists under "Pamphlets about Lilburne (excluding those written by other Leveller leaders)" (Gregg, P.  Free-born John, p.405).</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>A variant has "revolts" in line 11 of title, and "yeere" in imprint.</note>
+                  <note>Annotation on Thomason copy: "May 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160228:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>
+               <hi>THE RECANTATION Of</hi> Lieutenant Collonel <hi>John Lilburne, Priſoner in the</hi> Tower. <hi>OPENING, All the MACHINATIONS of the</hi> Independent Partie: <hi>THEIR Various</hi> Practiſes <hi>and</hi> Judgements.</p>
+            <p>With the Reaſons or Grounds of his unexpected Revolt from that Party: Alſo certain Rules to know them, with Cauti<g ref="char:EOLhyphen"/>ons to ſhun moſt of their pernicious Hereſies.</p>
+            <p>
+               <hi>Printed in the Yeer. 1647.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:160228:2"/>
+            <!-- PDF PAGE 86 -->
+            <head>THE RECANTATION of LIEV. COL. IOHN LILBVRNE.</head>
+            <opener>
+               <salute>Fellow-Commoners:</salute>
+            </opener>
+            <p>I Know it cannot otherwiſe chuſe but ſtrike a wonder into you, to ſee me now revoke that <hi>Cauſe</hi> that for<g ref="char:EOLhyphen"/>merly I have ſo unanimouſly main<g ref="char:EOLhyphen"/>tained, both with my ſword and pen; beſides, many cruell ſufferings, as whipping, impriſonments, and the like; in defence of <hi>you,</hi> your <hi>Priviledges, Freedomes,</hi> and <hi>Birth rights,</hi> even with the hazard of my life againſt all Oppoſers whatſoever; whether Biſhops, Kings, Parlia<g ref="char:EOLhyphen"/>ments, or any other Principalities or Powers in <hi>high pla<g ref="char:EOLhyphen"/>ces.</hi>
+            </p>
+            <p n="1">1. Being impriſoned (by the Biſhops) in the Fleet for a long time; denyed ever what nature it ſelfe ſo plenti<g ref="char:EOLhyphen"/>fully gives to all ſorts of Creatures, water being neere famiſhed, ſhamefully betrayed by my<note n="*" place="margin">Ed. Chil<g ref="char:EOLhyphen"/>dingden.</note> friends, a<g ref="char:EOLhyphen"/>buſed by Jaylors, cenſured by Star-chamber, whipped
+<pb n="3" facs="tcp:160228:2"/>
+               <!-- PDF PAGE 86 -->from the Fleet to Weſtminſter, afterwards enduring long Captivity by the Biſhops; then having obtained liberty by the meanes of my much honoured friend, Liev. Gen. <hi>Cromwell,</hi> no ſooner releaſed but againe ar<g ref="char:EOLhyphen"/>raigned for my life, before the whole Houſe of Peeres, about the Earle of <hi>Strafford,</hi> the King himſelfe ſending my Accuſation againſt<note n="*" place="margin">
+                  <hi>May</hi> 24. 1641.</note> me.</p>
+            <p>The Houſe of Commons then vouchſafed me ſo ☜ much juſtice, as to vote for me.</p>
+            <list>
+               <item>1. <hi>That the Sentence of the Star-chamber given againſt mee was illegall, and againſt the Liberty of the Subject as alſo wicked, bloody, cruell, barbarous, and tyrannis all.</hi>
+               </item>
+               <item>2. <hi>That reparations ought to be given mee for my impri<g ref="char:EOLhyphen"/>ſonment, ſufferings, and loſſes ſuſtained by that illegall ſen<g ref="char:EOLhyphen"/>tence.</hi>
+               </item>
+            </list>
+            <p>But ſince what juſtice I have received from them, let the world judge; conſidering the high eſteeme I have had both of them and their <hi>Cauſe,</hi> that had I had at the beginning of theſe warres ten thouſand<note n="*" place="margin">my hot Zeale.</note> lives, I ſhould have ventured them all for the Parliament, though I had ſtript my ſelfe to my very ſhirt, and though I had not left my Wife and Family any thing wherewith to have ſub<g ref="char:EOLhyphen"/>ſiſted: In their ſervice I freely adventur'd my life with an undaunted courage and reſolution, till being taken priſo<g ref="char:EOLhyphen"/>ner at Brainford, I was carryed to Oxford, where for al<g ref="char:EOLhyphen"/>moſt a yeere I continued a priſoner, arraigned againe for my life; but when they could not worke upon mee by any threats or menaces, they reſolved to try to doe that by polycy, they could not effect by force, and made me many proffers of worldly honours and preferments, which came even from the King himſelfe, by the hands of 4 ſeveral Lords, yet I remained unmoveable as a<note n="*" place="margin">My ſtrong faith.</note> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ock,
+<pb n="4" facs="tcp:160228:3"/>
+               <!-- PDF PAGE 87 -->ſtopping my eares againſt all thoſe <hi>juncto Syrens,</hi> and not ſo much as liſtning to any their conjurations or impreca<g ref="char:EOLhyphen"/>tions, charmed they never ſo wiſely, though I indured at that preſent as much miſery as it was poſſible for any one man to doe by ſickneſſe, and otherwiſe, to the utter ruine of my eſtate, to the value of 6 or 700 <abbr>l.</abbr> as I can make it appeare. After this, being exchanged, I ſerved under the Lord of <hi>Mancheſter,</hi> and being before Newarke, was ſtript to the bare<note n="*" place="margin">Yèt fer<g ref="char:EOLhyphen"/>vent for their Cauſe.</note> skin, hardly eſcaping with my life, and although I tooke in Tickell Caſtle from the Cavaliers, with much hazard, and danger; Yet the great <hi>Parliamen<g ref="char:EOLhyphen"/>tary Reward</hi> for all my good ſervice, was but an earneſt deſire to hang me, an unwelcome payment for ſo deſer<g ref="char:EOLhyphen"/>ving a ſervice, and an excellent new <hi>reformed</hi> way to pay <hi>old debts,</hi> having due unto me under the command of the ſaid Earle about 700 <abbr>l.</abbr> a ſumme that would have reared a gallows as high as <hi>Hamans</hi> for <hi>Mordecai;</hi> but &amp;c.</p>
+            <p>☞ I forbeare to ſpeake of Col. <hi>King.</hi> But they ha<g ref="char:EOLhyphen"/>ving ſerved their owne turnes of me, I could never have juſtice from them ſince, though I have been as faithfull a ſervant to them, and the Common-wealth, as any they ever imployed, and have bid defiance to all men in the world, to brand or taxe me with unfaithfullneſſe: And whereas <hi>Magna Carta</hi> ſaith, <hi>Iuſtice and Right wee will de<g ref="char:EOLhyphen"/>ny to none, nor wee will defer to none;</hi> Yet did I waite at leaſt foure yeeres upon them, and in all that time, could not get them ſo much as to put their Votes in execution; ſince have I followed them 6 moneths, to the expence of above a hundred pounds to get a Petition read, that I might have <hi>Iuſtice</hi> and <hi>Right,</hi> yet denyed both, and have been ſince the 1 of May, 1641. impriſoned three times by authority of the Houſe of Commons before ever I knew
+<pb n="5" facs="tcp:160228:3"/>
+               <!-- PDF PAGE 87 -->mine accuſer, or ever was ſuffered to ſpeake one word in mine owne defence, directly againſt my <hi>Freedome,</hi> (ha<g ref="char:EOLhyphen"/>ving beene in the field with my <hi>ſword</hi> in my <hi>hand</hi> for the preſervation thereof:) But if you pleaſe to read <hi>Magna Carta,</hi> 9 of Hen. 3. cap. 1. you ſhall finde there.</p>
+            <p>
+               <hi>That no Freeman may be taken and impriſoned, and diſ<g ref="char:EOLhyphen"/>ſeazed of his Freehold or his Liberty or his free Cuſtomes, or outlawed, or baniſhed, or any way deſtroyed; neither will we go upon him, neither paſſe upon him but by the lawful tryal of his equals, or by the law of the Land; Iuſtice &amp; Right we will ſell to none, wee will deny to none, nor will deferre to none;</hi> all which is <hi>my</hi> proper <hi>Birth-right</hi> and <hi>Inheritance,</hi> con<g ref="char:EOLhyphen"/>firmed by this preſent Parliament in many Declarations, taxing the King for the violation therof; yet acting con<g ref="char:EOLhyphen"/>trary thereunto themſelves.</p>
+            <p>Deare fellow Commons,</p>
+            <p>I Deſire you to judge impartially, and tell me, if they deſerved ſo faithfull a Champion as my ☜ ſelfe: That with undaunted courage, and un<g ref="char:EOLhyphen"/>parrallelled valour have diſarmed their enemies even at their very <hi>doores,</hi> (as namely Captaine Hide and others) and yet from that very <hi>houſe</hi> unto which thoſe <hi>dores</hi> doe lead, have received ſo many Votes in Commitments, and otherwiſe, as any Freeman under the Cope of Heaven: the Copy of one followeth.</p>
+            <floatingText xml:lang="eng" type="Parliamentary_resolution">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Die Sabbati,</hi> 19 July,</date>
+                     </dateline>
+                  </opener>
+                  <p>REſolved upon the Queſtion by the Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, that Lievetenant Collonell Lil<g ref="char:EOLhyphen"/>burne be forth with taken into Cuſtody by the Serjeant at Armes attending this Houſe, and ſo kept till the Houſe take further Order.</p>
+                  <pb n="6" facs="tcp:160228:4"/>
+                  <!-- PDF PAGE 88 -->
+                  <trailer>To the Sergeant at Armes attending at this Houſe, or to his Deputy, &amp;c.</trailer>
+                  <closer>
+                     <signed>H. Elſing. Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I Could inſtance you many more Tyrannies and Outrages committed upon me ſince my commitment to the Tower, where I remaine yet a Priſoner, but it is needleſſe, therefore enough ſhall ſuffice for this time.</p>
+            <p>Let me in the next place give you notice concerning your <hi>Collections</hi> in your ſeverall <hi>Congregations;</hi> I have found lately your Zeale very cold, and your Talent of Charity not to a<g ref="char:EOLhyphen"/>bound; the ſtreame of your bounty ſtill ebbing, or flowing ſome other way; I ſpeake this to put you in minde of your forwardneſſe to miniſter freely to my wants, for I may ſpeake it to your ſhames, that many of you miſtaking the way to the Tower, are hurried with too forward zeale to Newgate, Bride<g ref="char:EOLhyphen"/>well, or the Fleete; I muſt tell you Brethren,<note n="†" place="margin">
+                  <hi>Martin</hi> Mar<g ref="char:EOLhyphen"/>pri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt <hi>alias H. Over<g ref="char:EOLhyphen"/>ton,</hi> his Wiſe in Bridewell.</note> MARTIN, though a little bird, has a villanous ſtomacke,<note n="*" place="margin">Mr. <hi>Muſ<g ref="char:EOLhyphen"/>grave, Jane Hu<g ref="char:EOLhyphen"/>les</hi> and <hi>John Lar<g ref="char:EOLhyphen"/>ner,</hi> in the Fleet, and <hi>Cupid O<g ref="char:EOLhyphen"/>verton</hi> in the Gate<g ref="char:EOLhyphen"/>houſe.</note> even like any <hi>Cormorant,</hi> can digeſt your ſilver as eaſily as an <hi>Eſtriche</hi> Iron; Martin is a<note n="†" place="margin">He writ the Bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke of ſoules mor<g ref="char:EOLhyphen"/>ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lity, and maintaines the ſame.</note> 
+               <hi>Mortall Creature</hi> and of a retrograde judgement to the truth of our profeſſion; beſides he ſtudies <hi>Chymiſtry,</hi> and by his fained art of Eloquence, can eaſily extract the ſilver from his fellow-ſufferers: O <hi>divine Martine,</hi> if your <hi>ſuperla<g ref="char:EOLhyphen"/>tive holineſſe</hi> have no more fellow-feeling of the neceſſi<g ref="char:EOLhyphen"/>ties of your Brethren, I ſhall hardly endure you to build your Neſt (this Summer) on the charities of your abuſed Brethren, but will cauſe you take your flight (at Midſom<g ref="char:EOLhyphen"/>mer) with Cockoes and Jackdaus more Weſterly, where you ſhall <hi>pearch</hi> according to your Dignity. It cannot much impaire your holineſſe function, conſidering your grave <hi>Labours,</hi> and moſt <hi>Elaborate Peeces</hi> that<note n="*" place="margin">A ſcurril<g ref="char:EOLhyphen"/>lous Pam<g ref="char:EOLunhyphen"/>phlet enti<g ref="char:EOLhyphen"/>tu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <hi>Mar<g ref="char:EOLhyphen"/>tins</hi> Eccho.</note> 
+               <hi>Eccho</hi> forth your * ſacred endowments. I ſhall goe neere to tell the people, that your holineſſe battens (like an Abby-lubber) in your Cloyſter of Newgate, far more aboundantly then in your<note n="†" place="margin">Sacred decretall, or a Hue and Cry of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his holi<g ref="char:EOLhyphen"/>neſſe, <hi>Mar<g ref="char:EOLhyphen"/>tin</hi> Mar<g ref="char:EOLhyphen"/>prieſt.</note> 
+               <hi>hole</hi> in <hi>Too<g ref="char:EOLhyphen"/>lies: Martin</hi> went upon<note n="*" place="margin">Where his holineſſe kept his S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pet called <hi>Mar<g ref="char:EOLhyphen"/>gery</hi> Mar<g ref="char:EOLunhyphen"/>prieſt, <hi>alius</hi> his Prin<g ref="char:EOLunhyphen"/>ting-preſſe</note> 
+               <hi>Crutches</hi> then, though now his holi<g ref="char:EOLhyphen"/>neſſe hath taken upon him the garbe of a compleat Gallant, ſmells like a † perfumer, God ſave his holineſſe: Courts the Siſters, and findes them excellent well edified, and very com<g ref="char:EOLhyphen"/>pliable
+<pb n="7" facs="tcp:160228:4"/>
+               <!-- PDF PAGE 88 -->in their <hi>uſes;</hi> Mortall Creatures, graſſe and hey, all Mortal, all Mortall.<note n="*" place="margin">Both his Servants names.</note>
+            </p>
+            <p>But deare Brethren, enough of this <hi>fowle bird Martin,</hi> next I ſhall deſire you to lay to heart all my ſuffering; for your <hi>Priviledges, Liberties,</hi>
+               <note n="†" place="margin">But he may thank<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſiſter <hi>Daw</hi> the Perfu<g ref="char:EOLhyphen"/>mers w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe.</note> and Na<g ref="char:EOLhyphen"/>tive <hi>Birth rights:</hi> And that you would exhort all, and every Member in your <hi>reſpective Congregations,</hi> to contribute freely to my neceſſities, and the neceſſities of my <hi>fellow ſufferers</hi> in the Fleet; and to hold your hand from contributing to profane Martin any more, till his Brethren that are more worthy <hi>ſufferers</hi> then himſelfe be firſt ſupplied, or he himſelfe reclaimed from his pernicious Errors.</p>
+            <p>Therefore to conclude, I give my <hi>judgement</hi> for the preſent, which I de<g ref="char:EOLhyphen"/>ſire to hold and maintaine untill I be convinced by you of the ſame, and convinced, ſhall be ſoone reclaimed.</p>
+            <p n="1">1 I beleeve the King to be ſupreame head and governour, in all cauſes, over all perſons, Eccleſiaſticall or Civill.</p>
+            <p n="2">2. I am of the judgement, that no Subject ought to take up Armes a<g ref="char:EOLhyphen"/>gainſt his lawfull King, and that all ſuch taking up Armes againſt lawfull Authority, is fighting againſt God, and his Ordinances.</p>
+            <p n="3">3. I querie whether the King, being deſpencer of Law, or Chiefe Mi<g ref="char:EOLhyphen"/>niſter thereof, offending, or breaking the Law, be under a capacity of being puniſhed by any <hi>inferiour power,</hi> my judgement therein is, that no power under the King can doe it, but he is to expect his puniſhment from God only, and none elſe.</p>
+            <p n="4">4. I am of that judgement, that if the King ſhall command me any thing contrary to the word of God, I ought not to doe it, neither to reſiſt, but patiently ſuffer what puniſhment ſoever he ſhall inflict upon me, for <hi>Chriſts ſake.</hi>
+            </p>
+            <p n="5">5. I am of that judgement, that there cannot be fighting for Religion, but ſuffering for Religion in England, Ireland, or elſe where.</p>
+            <p n="6">6 I am of that judgement, that the Church founded upon the 12 Pillars or Articles of Chriſtian Faith in the three Creedes, called the Apoſtles, Athan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſius, and Nicene Creed, is the true Church of God, and that wee ought not to ſeperate from that Church but from any knowne Error in that Church: And any new Faith coyned by the Aſſembly to the contrary of none effect.</p>
+            <p>Thus deare Countrey men have I layd downe my judgement for the preſent, which ſhall no longer be evidenced by mee, then prooved by the Word. Therefore I deſire thee to ſearch the Scriptures, by which Rule all ſure foundations are layd, for laſting ſtructures, Common wealths, and Churches have not a Philoſophicall Generation, the new out of the per<g ref="char:EOLhyphen"/>verſion, the corruption of the ancient Government; the new out of the extirpation, the annihilating the eſtabliſhed old Religion; And if ſo great tempeſts and Earthquakes of Drums and Attillery, ſubvertions and im<g ref="char:EOLhyphen"/>merſions, of perſons and eſtates: Such unreckonable expence of a King<g ref="char:EOLhyphen"/>dome, coyned (to effect) for <hi>ſupplies,</hi> and ſuch inundations and overwhel<g ref="char:EOLhyphen"/>ming of blood, beget but a bare promiſe of ſuch an iſſue, what remaines for the Nation to undergoe before its productions? Doubtleſſe this birth
+<pb n="8" facs="tcp:160228:5"/>
+               <!-- PDF PAGE 89 -->can at theſe rates be attended with no leſſe then a deſolation, when there ſhall be too few left, and thoſe too much enfeebled to fall out about the enjoyment of ſo great a happineſſe.</p>
+            <p>Reaſon was given to man for a <hi>direction,</hi> as well as a <hi>diſtinction;</hi> and ge<g ref="char:EOLhyphen"/>nerally wee beleeve our eyes above any aſſertions: Poore ſelfe-deceiving <hi>Engliſhman,</hi> who canſt not be ſenſible how fantaſtick thy <hi>opinionate Refor<g ref="char:EOLhyphen"/>mation</hi> is; how reall the devaſtation of thy ſubſtance, and canſt finde a hope that the one will improove, and not a feare that the other may im<g ref="char:EOLhyphen"/>paire; As thou art onely miſerable in a proportion at preſent from thy ſelfe; So the Remaining degrees that thou art to take in miſery, are not to be proceeded in without thy conſent to a <hi>continued Vaſſallage.</hi>
+            </p>
+            <p>It is iuſt with God, and abates the Condemnation of impoſing man to lay burdens, and uſe Goades on thoſe who will be <hi>beaſts</hi> by diſavowing their <hi>reaſon,</hi> or pinning it upon <hi>opinion</hi> of <hi>anothers infabilities.</hi> and as juſt to ſtrike him <hi>blinde,</hi> who will not ſee an object of his marke in other co<g ref="char:EOLhyphen"/>lours or demenſions then what are rendred by anothers ſpectacles.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
